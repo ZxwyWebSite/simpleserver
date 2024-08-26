@@ -1,6 +1,6 @@
 package main
 
-import "simpleserver/src/app"
+import "github.com/ZxwyWebSite/simpleserver/src/app"
 
 func init() {
 	app.Init()

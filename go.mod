@@ -1,4 +1,4 @@
-module simpleserver
+module github.com/ZxwyWebSite/simpleserver
 
 go 1.20
 
